@@ -14,7 +14,7 @@ An analysis of rideshare data for the company PyBer, using Python, Pandas, and M
 
 ### Summary of Rideshare Data by City Type
 
--image here
+![image](https://user-images.githubusercontent.com/100869713/166115644-28e7121b-b98d-46f1-9595-015ef2310bc2.png)
 
 As demonstrated here, despite the relative increase in price as the city types move from Urban to Suburban to Rural, the total rides has a greater impact on the revenue generated from rideshares. There are 5x as many rides in suburban cities as there are in rural, and roughly 2.5x as many rides in urban cities as there are in suburban, translating to a near 5x increase in revenue for suburban vs. rural, and a nearly 2x increase in revenue between suburban and urban.
 
@@ -22,7 +22,7 @@ Notably, the total number of drivers does *not* directly correlate to an increas
 
 ### Weekly Fare Data by City Type
 
--image here
+![PyBer_fare_summary](https://user-images.githubusercontent.com/100869713/166115647-2a7e1e20-537d-413f-8efe-80c0bed8125e.png)
 
 As shown above, each type of city remains relatively consistent in total fare throughout the span of January through May, with predictable spikes near the end of February. Urban fares tend to be more prone to spikes and dips, but the overall tendency remains consistently high compared to suburban and rural cities.
 
